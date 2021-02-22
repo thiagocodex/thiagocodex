@@ -1,5 +1,7 @@
 [![](https://img.shields.io/discord/677642178083946580?color=%23768ACF&label=Discord)](https://discord.gg/3HTqPFDBmT)
- 
+
+![](https://plugcitarios.com/blog/wp-content/uploads/2015/03/1410967177-dragonballzgif-0.gif)
+
 Test now Discord bot: [JOIN THE DISCORD BOT TO YOUR SERVER](https://discord.com/api/oauth2/authorize?client_id=778451003950760007&permissions=8&scope=bot)
 
 * add a music track to the queue to be played.  
